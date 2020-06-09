@@ -1,0 +1,85 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "../"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "Introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html"
+  },  
+  { 
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "informacion-organizaciones",
+    "title": "1. La Información en las organizaciones",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "informacion-organizaciones",
+        "title": "1.1 Manejo básico de inventarios",
+        "anchor": "manejo"
+      }     
+    ]   
+   },
+
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "tipos-sistemas-de-informacion",
+    "title": "2. Tipos de sistemas de información",
+    "breadcrumb": ["Inicio","Tema 3"],
+    "path": "pages/3-tema.html"     
+  },  
+  { 
+    "id": 4,
+    "icon": "fa fa-file-text-o",
+    "slug": "recoleccion-de-datos-informacion",
+    "title": "3. Recolección de datos e información",
+    "breadcrumb": ["Inicio","Tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "recoleccion-de-datos-informacion",
+        "title": "3.1 Técnicas e Instrumentos",
+        "anchor": "tecnicas"
+      },   
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "recoleccion-de-datos-informacion",
+        "title": "3.2 Clasificación de la información",
+        "anchor": "clasificacion"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "recoleccion-de-datos-informacion",
+        "title": "3.3 Fichas técnicas",
+        "anchor": "fichas"
+      },   
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "recoleccion-de-datos-informacion",
+        "title": "3.4 Fuentes de la información",
+        "anchor": "fuentes"
+      }      
+    ] 
+  },
+
+  {
+    "id": 3,
+    "icon": "fa fa-file-text-o",
+    "slug": "actividades-que-realiza-un-sistema-de-informacion",
+    "title": "4. Actividades que realiza un sistema de información",
+    "breadcrumb": ["Inicio","Tema 5"],
+    "path": "pages/5-tema.html"     
+  }
+     
+]

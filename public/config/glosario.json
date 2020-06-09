@@ -1,0 +1,38 @@
+[
+  {
+    "letter": "C",
+    "terms": [
+      {
+        "title": "Ciclo",
+        "desciption": "Tiempo en el cual se tarda una organización en realizar una serie de actividades necesarias para lograr sus objetivos. Por ejemplo, el ciclo de compras es el tiempo que se toma desde el momento en que se realiza el pedido de un determinado producto, hasta que el proveedor, deja el producto en las instalaciones de la empresa. "
+      }
+    ]
+  }, 
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "Depuración",
+        "desciption": "Eliminar y descartar aspectos negativos, incensarios o que no agregan valor a un proceso o actividad. "
+      }
+    ]
+  },
+  {
+    "letter": "p",
+    "terms": [
+      {
+        "title": "Promesa de valor",
+        "desciption": "Hace referencia a lo que la organización le ofrece realmente al cliente, con lo que logrará satisfacer sus necesidades, por ejemplo: una empresa de transporte incluye dentro de su promesa de valor seguridad en la información y oportunidad en la entrega. "
+      }
+    ]
+  },  
+  {
+    "letter": "R",
+    "terms": [
+      {
+        "title": "Rotación de inventario",
+        "desciption": "Tiempo que tarda un producto o mercancía en volverse efectivo, es decir que se materialice la compra y genere recursos económicos. Esta rotación debe darse en el menor tiempo posible, lo que ayuda a la rentabilidad de la organización. "
+      }
+    ]
+  }
+]
