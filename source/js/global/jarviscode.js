@@ -339,3 +339,4 @@ window.addEventListener('resize', function () {
         $("#curso-topbar__nav").addClass("show");
     }
 }, false);
+

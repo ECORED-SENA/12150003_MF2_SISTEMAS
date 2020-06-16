@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1140.099" height="1058.492" viewBox="0 0 1140.099 1058.492">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset="0.226" stop-color="#d4d4d4"/>
+      <stop offset="0.765" stop-color="#dedede"/>
+      <stop offset="1" stop-color="#ccc"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_10407" data-name="Grupo 10407" transform="translate(-251.999 -271.845)">
+    <g id="Grupo_10406" data-name="Grupo 10406">
+      <g id="Grupo_10294" data-name="Grupo 10294" transform="translate(102 -937.6)">
+        <rect id="Rectángulo_6221" data-name="Rectángulo 6221" width="1140.099" height="951.138" transform="translate(149.999 1316.799)" fill="#c69c6d"/>
+        <rect id="Rectángulo_6222" data-name="Rectángulo 6222" width="1061.797" height="951.138" transform="translate(188.25 1316.799)" fill="#fff"/>
+      </g>
+      <g id="Grupo_10297" data-name="Grupo 10297" transform="translate(102 -937.6)">
+        <path id="Rectángulo_6223" data-name="Rectángulo 6223" d="M28.5,0h1083A28.5,28.5,0,0,1,1140,28.5V93.957a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V28.5A28.5,28.5,0,0,1,28.5,0Z" transform="translate(150.099 1222.842)" fill="#c69c6d"/>
+        <path id="Rectángulo_6224" data-name="Rectángulo 6224" d="M4.274,0H1057.523a4.274,4.274,0,0,1,4.274,4.274V42.092a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4.274A4.274,4.274,0,0,1,4.274,0Z" transform="translate(188.25 1274.707)" fill="#fff"/>
+        <path id="Trazado_3246" data-name="Trazado 3246" d="M627.86,1299.045H812.741c3.665,0,6.336-1.816,5.394-5.358L811.7,1254.45a5.582,5.582,0,0,0-5.394-4.147H772.2l4-27.461h-35.51a2.146,2.146,0,0,1-.016.553l-1.266,7.339a2.131,2.131,0,0,1-2.1,1.769H707.295a2.131,2.131,0,0,1-2.1-1.769l-1.265-7.339a2.1,2.1,0,0,1-.016-.553H668.4l4,27.461H638.292a5.58,5.58,0,0,0-5.394,4.147l-10.433,39.237C621.524,1297.229,624.194,1299.045,627.86,1299.045Z" fill-rule="evenodd" opacity="0.1"/>
+        <path id="Trazado_3247" data-name="Trazado 3247" d="M817.135,1292.029,806.7,1252.793a5.581,5.581,0,0,0-5.394-4.148H767.2l5.172-35.536a3.2,3.2,0,0,0-3.169-3.664H665.4a3.2,3.2,0,0,0-3.17,3.664l5.173,35.536H633.292a5.579,5.579,0,0,0-5.394,4.148l-10.433,39.236a5.582,5.582,0,0,0,5.395,7.016H811.741A5.582,5.582,0,0,0,817.135,1292.029Zm-81.464-70.291-1.266,7.339a2.131,2.131,0,0,1-2.1,1.768H702.295a2.131,2.131,0,0,1-2.1-1.768l-1.265-7.339a2.131,2.131,0,0,1,2.1-2.493h32.541A2.132,2.132,0,0,1,735.671,1221.738Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_10296" data-name="Grupo 10296" transform="translate(101 -906.6)">
+      <g id="Grupo_10295" data-name="Grupo 10295">
+        <text id="FICHA_TÉCNICA_DEL_PRODUCTO_XYZ" data-name="FICHA TÉCNICA DEL PRODUCTO XYZ" transform="translate(719.149 1376.32)" fill="#1a1a1a" font-size="25.133" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="-242.186" y="0">FICHA TÉCNICA DEL PRODUCTO XYZ</tspan></text>
+        <text id="Descripción_física:_" data-name="Descripción física: " transform="translate(250.346 1416.563)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Descripción física: </tspan></text>
+        <text id="Modelo:" transform="translate(250.346 1464.136)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Modelo:</tspan></text>
+        <text id="Marca:" transform="translate(250.346 1511.709)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Marca:</tspan></text>
+        <text id="Serial:" transform="translate(250.346 1559.422)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Serial:</tspan></text>
+        <text id="Código_Inventario:" data-name="Código Inventario:" transform="translate(250.346 1606.994)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Código Inventario:</tspan></text>
+        <text id="Especificaciones_Técnicas._" data-name="Especificaciones Técnicas. " transform="translate(250.346 1654.55)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Especificaciones Técnicas. </tspan></text>
+        <text id="_" data-name="•" transform="translate(269.136 1702.807)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Altura:" transform="translate(285.815 1702.807)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Altura:</tspan></text>
+        <text id="_2" data-name="•" transform="translate(269.136 1751.205)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Peso:" transform="translate(285.815 1751.205)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Peso:</tspan></text>
+        <text id="_3" data-name="•" transform="translate(269.136 1799.445)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Color:" transform="translate(285.815 1799.445)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Color:</tspan></text>
+        <text id="_4" data-name="•" transform="translate(269.136 1847.826)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Material:" transform="translate(285.815 1847.826)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Material:</tspan></text>
+        <text id="_5" data-name="•" transform="translate(269.136 1896.065)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Densidad:_" data-name="Densidad: " transform="translate(285.815 1896.065)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Densidad: </tspan></text>
+        <text id="_6" data-name="•" transform="translate(269.136 1944.442)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">•</tspan></text>
+        <text id="Diámetro:" transform="translate(285.815 1944.442)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Diámetro:</tspan></text>
+        <text id="IMAGEN_DEL_PRODUCTO." data-name="IMAGEN DEL PRODUCTO." transform="translate(798.805 2046.638)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">IMAGEN DEL PRODUCTO.</tspan></text>
+        <text id="Partes_del_producto." data-name="Partes del producto." transform="translate(250.346 1992.035)" font-size="18.85" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Partes del producto.</tspan></text>
+      </g>
+      <path id="Trazado_3245" data-name="Trazado 3245" d="M1199.63,1342.44H237.58V2060.9h963.137V1342.44Zm-960.962,48.652H526.1v46.629H238.668Zm0,47.707H526.1v46.5H238.668Zm0,47.574H526.1v46.495H238.668Zm0,47.573H526.1v46.631H238.668Zm0,47.709H526.1v46.5H238.668Zm399.687,478.162H238.668v-93.126H638.355Zm0-94.2H238.668V1629.229H638.355Zm561.275,0v94.2H639.442V1629.229H1199.63Zm0-337.462H527.187v-46.5H1199.63Zm0-47.574H527.187v-46.631H1199.63Zm0-47.709H527.187v-46.495H1199.63Zm0-47.573H527.187v-46.5H1199.63Zm0-47.574H527.187v-46.629H1199.63Zm0-47.707H238.668v-46.5H1199.63Z" fill="#1a1a1a" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

@@ -80,6 +80,12 @@
     "title": "4. Actividades que realiza un sistema de información",
     "breadcrumb": ["Inicio","Tema 5"],
     "path": "pages/5-tema.html"     
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
   }
-     
+  
 ]

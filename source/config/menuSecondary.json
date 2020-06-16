@@ -1,5 +1,10 @@
 [
-    
+    {
+        "icon": "fa fa-download",
+        "slug": "pdf",
+        "title": "Descargar PDF",
+        "path": "media/documentos/MF2_Clasificación_de_la_información_según_normatividad.pdf"
+    },
     {
         "icon": "icon glosario",
         "slug": "glosario",
