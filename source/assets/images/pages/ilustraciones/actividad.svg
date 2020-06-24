@@ -1,45 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="581.314" height="307.581" viewBox="0 0 581.314 307.581">
-  <g id="Grupo_10393" data-name="Grupo 10393" transform="translate(-429.908 -989.494)">
-    <g id="Grupo_10385" data-name="Grupo 10385">
-      <line id="Línea_176" data-name="Línea 176" x2="91.362" transform="translate(550.612 1070.27)" fill="none" stroke="#a4dbf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-      <path id="Trazado_3471" data-name="Trazado 3471" d="M638.4,1076.681c-1.967.984-3.577-.011-3.577-2.211v-8.4c0-2.2,1.61-3.195,3.577-2.212l9.245,4.623c1.968.984,1.968,2.594,0,3.577Z" fill="#a4dbf5"/>
-    </g>
-    <g id="Grupo_10386" data-name="Grupo 10386">
-      <line id="Línea_177" data-name="Línea 177" x2="91.362" transform="translate(778.91 1070.27)" fill="none" stroke="#a4dbf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-      <path id="Trazado_3472" data-name="Trazado 3472" d="M866.7,1076.681c-1.968.984-3.577-.011-3.577-2.211v-8.4c0-2.2,1.609-3.195,3.577-2.212l9.245,4.623c1.968.984,1.968,2.594,0,3.577Z" fill="#a4dbf5"/>
-    </g>
-    <text id="INFORMACIÓN_PROCESADA" data-name="INFORMACIÓN PROCESADA" transform="translate(883.222 1102.879)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="17">INFORMACIÓN </tspan><tspan x="0" y="39">PROCESADA</tspan></text>
-    <g id="Grupo_10387" data-name="Grupo 10387">
-      <rect id="Rectángulo_6351" data-name="Rectángulo 6351" width="120.704" height="50.591" rx="4" transform="translate(429.908 1044.974)" fill="#51b9ae"/>
-      <text id="Entrada" transform="translate(490.26 1076.705)" fill="#fff" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-45.067" y="0">Entrada</tspan></text>
-    </g>
-    <g id="Grupo_10388" data-name="Grupo 10388">
-      <rect id="Rectángulo_6352" data-name="Rectángulo 6352" width="120.704" height="50.591" rx="4" transform="translate(658.206 1044.974)" fill="#51b9ae"/>
-      <text id="Proceso" transform="translate(718.557 1076.705)" fill="#fff" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-45.331" y="0">Proceso</tspan></text>
-    </g>
-    <g id="Grupo_10389" data-name="Grupo 10389">
-      <rect id="Rectángulo_6353" data-name="Rectángulo 6353" width="237.904" height="50.591" rx="4" transform="translate(599.606 1183.774)" fill="#4384cd"/>
-      <text id="Almacenamiento" transform="translate(718.558 1215.505)" fill="#fff" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-97.79" y="0">Almacenamiento</tspan></text>
-    </g>
-    <g id="Grupo_10390" data-name="Grupo 10390">
-      <rect id="Rectángulo_6354" data-name="Rectángulo 6354" width="120.704" height="50.591" rx="4" transform="translate(886.504 1044.974)" fill="#51b9ae"/>
-      <text id="Salida" transform="translate(946.856 1076.705)" fill="#fff" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-34.188" y="0">Salida</tspan></text>
-    </g>
-    <g id="Grupo_10391" data-name="Grupo 10391">
-      <line id="Línea_178" data-name="Línea 178" y2="49.764" transform="translate(718.558 1110.338)" fill="none" stroke="#a4dbf5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-      <path id="Trazado_3473" data-name="Trazado 3473" d="M724.969,1114.96c.984,1.968-.011,3.578-2.211,3.578h-8.4c-2.2,0-3.195-1.61-2.211-3.578l4.622-9.244c.984-1.968,2.594-1.968,3.578,0Z" fill="#a4dbf5"/>
-      <path id="Trazado_3474" data-name="Trazado 3474" d="M712.147,1163.68c-.984-1.968.011-3.578,2.211-3.578h8.4c2.2,0,3.2,1.61,2.211,3.578l-4.622,9.244c-.984,1.968-2.594,1.968-3.578,0Z" fill="#a4dbf5"/>
-    </g>
-    <g id="Grupo_10392" data-name="Grupo 10392">
-      <text id="MANUAL" transform="translate(429.908 1102.879)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="17">MANUAL</tspan></text>
-      <text id="Usuario_" data-name="Usuario
-" transform="translate(444.606 1124.883)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Usuario</tspan></text>
-      <text id="_" data-name="•" transform="translate(429.908 1124.883)" fill="#4dd0e0" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="4.341" y="17">•</tspan></text>
-      <text id="AUTOMATICA" transform="translate(429.908 1151.476)" fill="#00223d" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="17">AUTOMATICA</tspan></text>
-      <text id="De_otros_sistemas_o_módulos" data-name="De otros sistemas o módulos" transform="translate(444.606 1173.479)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">De otros </tspan><tspan x="0" y="39">sistemas o </tspan><tspan x="0" y="61">módulos</tspan></text>
-      <text id="_2" data-name="•" transform="translate(429.908 1173.479)" fill="#4dd0e0" font-size="16" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="4.341" y="17">•</tspan></text>
-    </g>
-    <text id="Permite_la_transformación_de_datos_en_información_para_la_toma_de_decisiones." data-name="Permite la transformación de datos en información para la toma de decisiones." transform="translate(554.159 989.494)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Permite la transformación de datos en </tspan><tspan x="0" y="39">información para la toma de decisiones.</tspan></text>
-    <text id="La_información_suele_ser_almacenada_en_archivos." data-name="La información suele ser almacenada en archivos." transform="translate(612.043 1241.076)" fill="#00223d" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">La información suele ser </tspan><tspan x="0" y="39">almacenada en archivos.</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 581.3 307.6" style="enable-background:new 0 0 581.3 307.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#A4DBF5;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#A4DBF5;}
+	.st2{fill:#00223D;}
+	.st3{font-family:'OpenSans-Bold';}
+	.st4{font-size:16px;}
+	.st5{fill:#51B9AE;}
+	.st6{fill:#FFFFFF;}
+	.st7{font-family:'Montserrat-SemiBold';}
+	.st8{font-size:22px;}
+	.st9{fill:#4384CD;}
+	.st10{font-family:'OpenSans';}
+	.st11{fill:#4DD0E0;}
+</style>
+<g id="Grupo_10393" transform="translate(-429.908 -989.494)">
+	<g id="Grupo_10385">
+		<line id="Línea_176" class="st0" x1="550.6" y1="1070.3" x2="642" y2="1070.3"/>
+		<path id="Trazado_3471" class="st1" d="M638.4,1076.7c-2,1-3.6,0-3.6-2.2v-8.4c0-2.2,1.6-3.2,3.6-2.2l9.2,4.6c2,1,2,2.6,0,3.6
+			L638.4,1076.7z"/>
+	</g>
+	<g id="Grupo_10386">
+		<line id="Línea_177" class="st0" x1="778.9" y1="1070.3" x2="870.3" y2="1070.3"/>
+		<path id="Trazado_3472" class="st1" d="M866.7,1076.7c-2,1-3.6,0-3.6-2.2v-8.4c0-2.2,1.6-3.2,3.6-2.2l9.2,4.6c2,1,2,2.6,0,3.6
+			L866.7,1076.7z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 883.222 1119.879)" class="st2 st3 st4">INFORMACIÓN </text>
+	<text transform="matrix(1 0 0 1 883.222 1141.879)" class="st2 st3 st4">PROCESADA</text>
+	<g id="Grupo_10387">
+		<path id="Rectángulo_6351" class="st5" d="M433.9,1045h112.7c2.2,0,4,1.8,4,4v42.6c0,2.2-1.8,4-4,4H433.9c-2.2,0-4-1.8-4-4V1049
+			C429.9,1046.8,431.7,1045,433.9,1045z"/>
+		<text transform="matrix(1 0 0 1 445.193 1076.705)" class="st6 st7 st8">Entrada</text>
+	</g>
+	<g id="Grupo_10388">
+		<path id="Rectángulo_6352" class="st5" d="M662.2,1045h112.7c2.2,0,4,1.8,4,4v42.6c0,2.2-1.8,4-4,4H662.2c-2.2,0-4-1.8-4-4V1049
+			C658.2,1046.8,660,1045,662.2,1045z"/>
+		<text transform="matrix(1 0 0 1 673.226 1076.705)" class="st6 st7 st8">Proceso</text>
+	</g>
+	<g id="Grupo_10389">
+		<path id="Rectángulo_6353" class="st9" d="M603.6,1183.8h229.9c2.2,0,4,1.8,4,4v42.6c0,2.2-1.8,4-4,4H603.6c-2.2,0-4-1.8-4-4
+			v-42.6C599.6,1185.6,601.4,1183.8,603.6,1183.8z"/>
+		<text transform="matrix(1 0 0 1 620.768 1215.505)" class="st6 st7 st8">Almacenamiento</text>
+	</g>
+	<g id="Grupo_10390">
+		<path id="Rectángulo_6354" class="st5" d="M890.5,1045h112.7c2.2,0,4,1.8,4,4v42.6c0,2.2-1.8,4-4,4H890.5c-2.2,0-4-1.8-4-4V1049
+			C886.5,1046.8,888.3,1045,890.5,1045z"/>
+		<text transform="matrix(1 0 0 1 912.668 1076.705)" class="st6 st7 st8">Salida</text>
+	</g>
+	<g id="Grupo_10391">
+		<line id="Línea_178" class="st0" x1="718.6" y1="1110.3" x2="718.6" y2="1160.1"/>
+		<path id="Trazado_3473" class="st1" d="M725,1115c1,2,0,3.6-2.2,3.6h-8.4c-2.2,0-3.2-1.6-2.2-3.6l4.6-9.2c1-2,2.6-2,3.6,0
+			L725,1115z"/>
+		<path id="Trazado_3474" class="st1" d="M712.1,1163.7c-1-2,0-3.6,2.2-3.6h8.4c2.2,0,3.2,1.6,2.2,3.6l-4.6,9.2c-1,2-2.6,2-3.6,0
+			L712.1,1163.7z"/>
+	</g>
+	<g id="Grupo_10392">
+		<text transform="matrix(1 0 0 1 429.908 1119.879)" class="st2 st3 st4">MANUAL</text>
+		<text transform="matrix(1 0 0 1 444.606 1141.8831)" class="st2 st10 st4">Usuario</text>
+		<text transform="matrix(1 0 0 1 434.249 1141.8831)" class="st11 st3 st4">•</text>
+		<text transform="matrix(1 0 0 1 429.908 1168.476)" class="st2 st3 st4">AUTOMÁTICA</text>
+		<text transform="matrix(1 0 0 1 444.606 1190.479)" class="st2 st10 st4">De otros </text>
+		<text transform="matrix(1 0 0 1 444.606 1212.479)" class="st2 st10 st4">sistemas o </text>
+		<text transform="matrix(1 0 0 1 444.606 1234.479)" class="st2 st10 st4">módulos</text>
+		<text transform="matrix(1 0 0 1 434.249 1190.479)" class="st11 st3 st4">•</text>
+	</g>
+	<text transform="matrix(1 0 0 1 554.159 1006.494)" class="st2 st10 st4">Permite la transformación de datos en </text>
+	<text transform="matrix(1 0 0 1 554.159 1028.494)" class="st2 st10 st4">información para la toma de decisiones.</text>
+	<text transform="matrix(1 0 0 1 612.043 1258.076)" class="st2 st10 st4">La información suele ser </text>
+	<text transform="matrix(1 0 0 1 612.043 1280.076)" class="st2 st10 st4">almacenada en archivos.</text>
+</g>
 </svg>

@@ -4,14 +4,14 @@ include ../mixins/functions
 
 .container
     .header-ecored
-        h1 4. actividades que realiza un sistema de información
+        h1 4. Actividades que realiza un sistema de información
     .header  
          .card
             .card-body
-                p Según la Real Academia Española, el termino clasificar significa ordenar o disponer por clases algo. Acorde al origen y el tipo de información así se podría clasificar, dado que su uso será diferente y así mismo los perfiles de usuario que acceden a ella. Por ejemplo: un operario de empaque puede acceder a la información de los turnos de trabajo o de los pedidos pendientes, por el contrario, no podría acceder a la información de las cuentas por cobrar en el área contable y financiera; para esto, los sistemas de información deben de contar con permisos y restricciones para su acceso. Esto no solo ocurre en niveles operativos, ya muy probablemente el director general de la empresa no tendrá acceso directo al nivel de producción de cada operario, pero si al nivel de producción diario o por turno. 
-
-                .card-body(style="background: #E0F5FF; border-radius: 10px").my-5
+                .card-body(style="background: #E0F5FF; border-radius: 10px").mb-5
                     img.img-a(src="assets/images/pages/ilustraciones/actividad.svg").img-fluid
+
+                p.mb-5 Los sistemas de información cuentan con 4 actividades básicas y generales, las cuales están definidas como entradas, procesamiento, almacenamiento y salida de información, en la cuales interactúan con individuos que acompañan, validan y aseguran el proceso. 
 
                 #accordionExample.accordion
                     .card
@@ -24,8 +24,8 @@ include ../mixins/functions
                                 .row.my-4
                                     .col-12.col-md-7
                                         p Es el proceso mediante el cual el sistema de Información toma los datos que requiere para procesar la información. Las entradas pueden ser manuales o automáticas. Las manuales son aquellas que se proporcionan en forma directa por el usuario, mientras que las automáticas son datos que provienen o son tomados de otros sistemas o módulos. Esto último se denomina interfaces automáticas.
-
-                                        |Las unidades típicas de entrada de datos a las computadoras son las terminales, las memorias usb, los códigos de barras, códigos QR, los escáneres, la voz, los monitores sensibles al tacto, el teclado y el mouse, entre otras. Cada uno de los medios utilizados para la entrada de información se usa según necesidad o actividad a realizar, por ejemplo: en la situación que llega un contenedor con materiales al centro de distribución, se puede utilizar escáner en la puerta de entrada, el cual haga la lectura de los códigos de barra, ingresando la información al sistema del tipo de material, cantidad, peso, procedencia, especificaciones, entre otros datos importantes para su almacenamiento.
+                                        br
+                                        P Las unidades típicas de entrada de datos a las computadoras son las terminales, las memorias usb, los códigos de barras, códigos QR, los escáneres, la voz, los monitores sensibles al tacto, el teclado y el mouse, entre otras. Cada uno de los medios utilizados para la entrada de información se usa según necesidad o actividad a realizar, por ejemplo: en la situación en que llega un contenedor con materiales al centro de distribución, se puede utilizar escáner en la puerta de entrada, el cual haga la lectura de los códigos de barras, ingresando la información al sistema del tipo de material, cantidad, peso, procedencia, especificaciones, entre otros datos importantes para su almacenamiento.
 
                                         |Algunas de las entradas de información pueden ser: 
                                         
@@ -38,7 +38,7 @@ include ../mixins/functions
                                                 p(style="color: #00223D") Facturas (interface automática). Pagos, depuraciones, etc.
 
                                     .col-12-col-md-6.text-center.ml-3
-                                         img(src="assets/images/pages/ilustraciones/actividades1.svg").img-fluid
+                                            img(src="assets/images/pages/ilustraciones/actividades1.png").img-fluid
             
                     .card
                         #headingTwo.card-header(style="background: #36AFEA")
@@ -52,7 +52,7 @@ include ../mixins/functions
                                         p En esta actividad se ve reflejada la capacidad del sistema de información de realizar cálculos ajustados a la programación ya establecida, según las necesidades, la cantidad de información y capacidad de la organización, ya que de acuerdo con estos criterios se determina el soporte e infraestructura para realizarlo adecuadamente. 
 
                                         |Algunas de las actividades de procesamiento que puede realizar un sistema de información son las siguientes: 
-                                   
+                                    
                                         ul.mt-3
                                             li(style="color: #4DD0E0")
                                                 p(style="color: #00223D") Cálculo de antigüedad de saldos. 
@@ -62,7 +62,7 @@ include ../mixins/functions
                                                 p(style="color: #00223D") Cálculo del saldo de un cliente.   
 
                                     .col-12-col-md-6.text-center.ml-3
-                                         img(src="assets/images/pages/ilustraciones/actividades2.svg").img-fluid
+                                            img(src="assets/images/pages/ilustraciones/actividades2.png").img-fluid
                     
                     .card
                         #headingThree.card-header(style="background: #36AFEA")
@@ -73,7 +73,7 @@ include ../mixins/functions
                             .card-body(style="background: #D4F4F7")
                                 .row.my-4
                                     .col-12.col-md-7
-                                        p Siendo una de las actividades más importantes dentro del funcionamiento de un sistema de información, está el almacenamiento ya que de esta depende la salida de la información, para la toma de decisiones.
+                                        p Siendo una de las actividades más importantes dentro del funcionamiento de un sistema de información, está el almacenamiento ya que de este depende la salida de la información, para la toma de decisiones.
 
                                         |Tipos de información almacenada en un sistema de información.
                                         
@@ -86,7 +86,7 @@ include ../mixins/functions
                                                 p(style="color: #00223D") Facturas.  
 
                                     .col-12-col-md-6.text-center.ml-3
-                                         img(src="assets/images/pages/ilustraciones/actividades3.svg").img-fluid
+                                            img(src="assets/images/pages/ilustraciones/actividades3.png").img-fluid
 
                     .card
                         #headingFour.card-header(style="background: #36AFEA")
@@ -97,10 +97,10 @@ include ../mixins/functions
                             .card-body(style="background: #D4F4F7")
                                 .row.my-4
                                     .col-12.col-md-7
-                                        p La salida es la capacidad de un sistema de Información para sacar la información procesada o bien datos de entrada al exterior. Las unidades típicas de salida son las impresoras, terminales, memorias USB, cintas magnéticas, la voz, los graficadores y los plotters, entre otros. Es importante aclarar que la salida de un sistema de información puede constituir la entrada a otro sistema de Información o módulo. En este caso, también existe una interfaz automática de salida. Por ejemplo, el sistema de control de clientes tiene una interfaz automática de salida con el sistema de contabilidad, ya que genera las pólizas contables de los movimientos procesales de los clientes.
+                                        p La salida es la capacidad de un sistema de información para sacar esta misma procesada o bien datos de entrada al exterior. Las unidades típicas de salida son las impresoras, terminales, memorias USB, cintas magnéticas, la voz, los graficadores y los plotters, entre otros. Es importante aclarar que la salida de un sistema de información puede constituir la entrada a otro sistema de información o módulo. En este caso, también existe una interfaz automática de salida. Por ejemplo, el sistema de control de clientes tiene una interfaz automática de salida con el sistema de contabilidad, ya que genera las pólizas contables de los movimientos procesales de los clientes.
 
                                         |Algunas de las salidas de un sistema de información son: 
-                                       
+                                        
                                         ul.mt-3
                                             li(style="color: #4DD0E0")
                                                 p(style="color: #00223D") Reporte de pagos. 
@@ -112,5 +112,5 @@ include ../mixins/functions
                                                 p(style="color: #00223D") Consultas de saldos en pantalla de una terminal.                                                
 
                                     .col-12-col-md-6.text-center.ml-3
-                                         img(src="assets/images/pages/ilustraciones/actividades4.svg").img-fluid
+                                            img(src="assets/images/pages/ilustraciones/actividades4.png").img-fluid
 
