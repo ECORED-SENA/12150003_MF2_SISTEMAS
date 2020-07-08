@@ -8,19 +8,19 @@ include ../mixins/functions
     .header  
          .card
             .card-body
-                .card-body(style="background: #E0F5FF; border-radius: 10px").mb-5
+                .card-body.img-card-1.mb-5
                     img.img-a(src="assets/images/pages/ilustraciones/actividad.svg").img-fluid
 
                 p.mb-5 Los sistemas de información cuentan con 4 actividades básicas y generales que están definidas como entradas, procesamiento, almacenamiento y salida de información, en la cuales interactúan con individuos que acompañan, validan y aseguran el proceso.
 
                 #accordionExample.accordion
                     .card
-                        #headingOne.card-header(style="background: #36AFEA")
-                            p(style="margin-top: 1rem")
+                        #headingOne.card-header.bg-color-3
+                            p.pt-3
                                 button.btn.btn-link(type='button', data-toggle='collapse', data-target='#collapseOne', aria-expanded='true', aria-controls='collapseOne')
-                                    p(style="font-size: 20px; color: #fff").mb-0.text-center Entradas
+                                    p.text-2.mb-0.text-center Entradas
                         #collapseOne.collapse.show(aria-labelledby='headingOne', data-parent='#accordionExample')
-                            .card-body(style="background: #D4F4F7")
+                            .card-body.bg-color-4
                                 .row.my-4
                                     .col-12.col-md-7
                                         p Es el proceso mediante el cual el sistema de Información toma los datos que requiere para procesar la información. Las entradas pueden ser manuales o automáticas; las manuales son aquellas que se proporcionan en forma directa por el usuario, mientras que las automáticas son datos que provienen o son tomados de otros sistemas o módulos, se denominan interfaces automáticas.
@@ -30,23 +30,23 @@ include ../mixins/functions
                                         |Algunas de las entradas de información, pueden ser:
                                         
                                         ul.mt-3
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Datos generales del cliente: nombre, dirección, tipo de cliente, etc.
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Políticas de créditos: límite de crédito, plazo de pago, etc.
-                                            li(style="color: #4DD0E0")    
-                                                p(style="color: #00223D") Facturas (interfaz automática). Pagos, depuraciones, etc.
+                                            li.text-blue
+                                                p.text-black Datos generales del cliente: nombre, dirección, tipo de cliente, etc.
+                                            li.text-blue
+                                                p.text-black Políticas de créditos: límite de crédito, plazo de pago, etc.
+                                            li.text-blue    
+                                                p.text-black Facturas (interfaz automática). Pagos, depuraciones, etc.
 
                                     .col-12-col-md-6.text-center.ml-3
                                             img(src="assets/images/pages/ilustraciones/actividades1.png").img-fluid
             
                     .card
-                        #headingTwo.card-header(style="background: #36AFEA")
-                            p(style="margin-top: 1rem")
+                        #headingTwo.card-header.bg-color-3
+                            p.pt-3
                                 button.btn.btn-link.collapsed(type='button', data-toggle='collapse', data-target='#collapseTwo', aria-expanded='false', aria-controls='collapseTwo')
-                                    p(style="font-size: 20px; color: #fff").mb-0.text-center Procesamiento
+                                    p.text-2.mb-0.text-center Procesamiento
                         #collapseTwo.collapse(aria-labelledby='headingTwo', data-parent='#accordionExample')
-                            .card-body(style="background: #D4F4F7")
+                            .card-body.bg-color-4
                                 .row.my-4
                                     .col-12.col-md-7
                                         p En esta actividad se ve reflejada la capacidad del sistema de información de realizar cálculos ajustados a la programación ya establecida según las necesidades, la cantidad de información y capacidad de la organización, ya que de acuerdo con estos criterios se determina el soporte e infraestructura para realizarlo adecuadamente. 
@@ -54,23 +54,23 @@ include ../mixins/functions
                                         |Algunas de las actividades de procesamiento que puede realizar un sistema de información son las siguientes: 
                                     
                                         ul.mt-3
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Cálculo de antigüedad de saldos 
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Cálculo de intereses moratorios 
-                                            li(style="color: #4DD0E0")    
-                                                p(style="color: #00223D") Cálculo del saldo de un cliente.   
+                                            li.text-blue
+                                                p.text-black Cálculo de antigüedad de saldos 
+                                            li.text-blue
+                                                p.text-black Cálculo de intereses moratorios 
+                                            li.text-blue    
+                                                p.text-black Cálculo del saldo de un cliente.   
 
                                     .col-12-col-md-6.text-center.ml-3
                                             img(src="assets/images/pages/ilustraciones/actividades2.png").img-fluid
                     
                     .card
-                        #headingThree.card-header(style="background: #36AFEA")
-                            p(style="margin-top: 1rem")
+                        #headingThree.card-header.bg-color-3
+                            p.pt-3
                                 button.btn.btn-link.collapsed(type='button', data-toggle='collapse', data-target='#collapseThree', aria-expanded='false', aria-controls='collapseThree')
-                                    p(style="font-size: 20px; color: #fff").mb-0.text-center Almacenamiento
+                                    p.text-2.mb-0.text-center Almacenamiento
                         #collapseThree.collapse(aria-labelledby='headingThree', data-parent='#accordionExample')
-                            .card-body(style="background: #D4F4F7")
+                            .card-body.bg-color-4
                                 .row.my-4
                                     .col-12.col-md-7
                                         p Se constituye en una de las actividades más importantes dentro del funcionamiento de un sistema de información, ya que de este depende la salida de la información para la toma de decisiones.
@@ -78,23 +78,23 @@ include ../mixins/functions
                                         |Tipos de información almacenada en un sistema de información.
                                         
                                         ul.mt-3
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Movimientos del mes (pagos, depuraciones) 
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Catálogo de clientes 
-                                            li(style="color: #4DD0E0")    
-                                                p(style="color: #00223D") Facturas.  
+                                            li.text-blue
+                                                p.text-black Movimientos del mes (pagos, depuraciones) 
+                                            li.text-blue
+                                                p.text-black Catálogo de clientes 
+                                            li.text-blue    
+                                                p.text-black Facturas.  
 
                                     .col-12-col-md-6.text-center.ml-3
                                             img(src="assets/images/pages/ilustraciones/actividades3.png").img-fluid
 
                     .card
-                        #headingFour.card-header(style="background: #36AFEA")
-                            p(style="margin-top: 1rem")
+                        #headingFour.card-header.bg-color-3
+                            p.pt-3
                                 button.btn.btn-link.collapsed(type='button', data-toggle='collapse', data-target='#collapseFour', aria-expanded='false', aria-controls='collapseThree')
-                                    p(style="font-size: 20px; color: #fff").mb-0.text-center Salidas
+                                    p.text-2.mb-0.text-center Salidas
                         #collapseFour.collapse(aria-labelledby='headingThree', data-parent='#accordionExample')
-                            .card-body(style="background: #D4F4F7")
+                            .card-body.bg-color-4
                                 .row.my-4
                                     .col-12.col-md-7
                                         p Es la capacidad de un sistema para sacar información procesada o datos de entrada al exterior. Las unidades típicas de salida son las impresoras, terminales, memorias USB, cintas magnéticas, la voz, los graficadores y los plotters, entre otros. Es importante aclarar que la salida de un sistema de información puede constituir la entrada a otro sistema de este tipo o módulo. En este caso, también existe una interfaz automática de salida; por ejemplo, el sistema de control de clientes tiene una interfaz automática de salida con el sistema de contabilidad, puesto que genera las pólizas contables de los movimientos procesales de los clientes.
@@ -102,14 +102,14 @@ include ../mixins/functions
                                         |Algunas de las salidas de un sistema de información son: 
                                         
                                         ul.mt-3
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Reporte de pagos 
-                                            li(style="color: #4DD0E0")
-                                                p(style="color: #00223D") Estados de cuenta 
-                                            li(style="color: #4DD0E0")    
-                                                p(style="color: #00223D") Pólizas contables (interfaz automática)  
-                                            li(style="color: #4DD0E0")    
-                                                p(style="color: #00223D") Consultas de saldos en pantalla de una terminal.                                                
+                                            li.text-blue
+                                                p.text-black Reporte de pagos 
+                                            li.text-blue
+                                                p.text-black Estados de cuenta 
+                                            li.text-blue    
+                                                p.text-black Pólizas contables (interfaz automática)  
+                                            li.text-blue    
+                                                p.text-black Consultas de saldos en pantalla de una terminal.                                                
 
                                     .col-12-col-md-6.text-center.ml-3
                                             img(src="assets/images/pages/ilustraciones/actividades4.png").img-fluid
