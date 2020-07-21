@@ -176,7 +176,11 @@ async function renderGlossary(slug) {
 }
 
 function renderContent(slug, anchor) {
-
+    
+    var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+    if (viewportWidth < 575) {
+        $('.page-main-aside__close').trigger('click');
+    }
     let item = sessionStorage.getItem(slug);
 
     if (item) {
@@ -187,7 +191,7 @@ function renderContent(slug, anchor) {
                 .then(data => {
                     document.getElementById('mainContent').innerHTML = data;
                     if (anchor != undefined && anchor.length > 0) {
-                        $('body,html').stop(true, true).animate({ scrollTop: $('#' + anchor).offset().top }, 1000);
+                        $('body,html').stop(true, true).animate({ scrollTop: $('#' + anchor).offset().top - $('.page-topbar').height()}, 1000);
                     } else {
                         refreshControlPage(slug);
                         $('body,html').stop(true, true).animate({ scrollTop: 0 }, 1000);
@@ -205,11 +209,13 @@ function renderContent(slug, anchor) {
         console.log("Slug no encontrado, revisar carpeta de contenido o json de configuración.");
     }
 
+
+
 }
 
- function refreshControlPage(actualHash) {
+function refreshControlPage(actualHash) {
     
-     let navItems = Array.from(document.getElementsByClassName('no-anchor'));
+    let navItems = Array.from(document.getElementsByClassName('no-anchor'));
     
     let navItemIndex = navItems.findIndex((element) => element.getAttribute("data-route") == actualHash);
     (navItemIndex == 0) ? document.getElementById('back').removeAttribute('href'): document.getElementById('back').setAttribute('href', navItems[navItemIndex - 1].getAttribute('data-route'));
@@ -333,12 +339,14 @@ $(function () {
             document.getElementById("menuSecondary").style.width = "320px";
             document.getElementById("page-main").style.marginLeft = "320px";
             //document.getElementById("page-control").style.marginLeft = "320px";
+            $('.page-control').hide();
             boton.addClass('active');
         } else {
             document.getElementById("page-main-aside").style.width = "0";
             document.getElementById("menuSecondary").style.width = "0";
             document.getElementById("page-main").style.marginLeft = "0";
             //document.getElementById("page-control").style.marginLeft = "0px";
+            $('.page-control').show();
             boton.removeClass('active');
         }
 
